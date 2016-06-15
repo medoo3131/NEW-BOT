@@ -1,31 +1,6 @@
-# [MONSTERBOT]# [MONSTERDEV](https://telegram.me/INSTAOFFICIAL)
+# NEW-BOT
 
 
-**An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot)**.
-# Features
-
-* **A powerful antispam system with custom sensitivity for each group**
-* **Multiple realms (admin groups)**
-* **Recalcitrant to any kind of spamming (X/Y bots, name/photo changers, etc.)**
-* **Global banning**
-* **radio to all groups**
-* **Group and  links**
-* **Kick, ban and unban by reply**
-* **Groups, ban and global ban list**
-* **Logging anything that happens in a group**
-* **Invitation by username**
-* **Group administration via private messages**
-* **Only mods, owner and admin can add bots in groups**
-* **Arabic lock**
-* **Lock TgService**
-* **Chat list**
-* **And more!**
-
-
-* * *
-
-# Commands
-#### just send !help
 
 # Installation
 
@@ -84,9 +59,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 #MONSTERBOT
 
- Developer
-{@PXPP3}
+# Developer
+{@MEDOO_313_M}
 
-My channel 😍👍
-#### [INSTAOFFICIAL]
 
