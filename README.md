@@ -57,7 +57,7 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 
 * * *
 
-#MONSTERBOT
+
 
 # Developer
 {@MEDOO_313_M}
